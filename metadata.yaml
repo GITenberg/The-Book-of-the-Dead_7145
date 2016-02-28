@@ -1,0 +1,35 @@
+_repo: The-Book-of-the-Dead_7145
+creator:
+  author:
+    agent_name: Budge, E. A. Wallis (Ernest Alfred Wallis), Sir
+    aliases:
+    - Budge, Ernest Alfred Thompson Wallis, Sir
+    - Budge, Ernest Alfred Wallis, Sir
+    birthdate: 1857
+    deathdate: 1934
+    gutenberg_agent_id: '2338'
+    url: http://www.gutenberg.org/2009/agents/2338
+    wikipedia: http://en.wikipedia.org/wiki/E._A._Wallis_Budge
+description: '& Quot;The Book of Dead" is the common name for the ancient Egyptian
+  funerary text known as "Spells of Coming" (or "Going") "Forth By Day." The Book
+  of the Dead was a description of the ancient Egyptian conception of the afterlife
+  and a collection of hymns, spells, and instructions to allow the deceased to pass
+  through obstacles in the afterlife. The Book of the Dead was most commonly written
+  on a papyrus scroll and placed in the coffin or burial chamber of the deceased-
+  Excerpted from Wikipedia, the free encyclopedia.'
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7145'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Death'
+- !lcc 'PJ'
+- !lcsh 'Egypt -- Religion'
+- !lcsh 'Book of the dead'
+- !lcsh 'Future life'
+title: The Book of the Dead
+url: http://www.gutenberg.org/ebooks/7145
