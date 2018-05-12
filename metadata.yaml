@@ -1,4 +1,8 @@
 _repo: The-Book-of-the-Dead_7145
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Budge, E. A. Wallis (Ernest Alfred Wallis), Sir
@@ -17,6 +21,8 @@ description: '& Quot;The Book of Dead" is the common name for the ancient Egypti
   through obstacles in the afterlife. The Book of the Dead was most commonly written
   on a papyrus scroll and placed in the coffin or burial chamber of the deceased-
   Excerpted from Wikipedia, the free encyclopedia.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7145#The-Book-of-the-Dead
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
